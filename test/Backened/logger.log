@@ -1,0 +1,6 @@
+2025-07-30 18:00:15,801 - Connection - INFO - Insert data 9999-10-02 -- 60 -- test -- it is a uni test to check data if it work alright
+2025-07-30 18:00:16,053 - Connection - INFO - Fetch all data for 9999-10-02
+2025-07-30 18:00:16,136 - Connection - INFO - Delete data by date 9999-10-02
+2025-07-30 18:00:16,233 - Connection - INFO - Fetch all data for 9999-10-02
+2025-07-30 18:00:16,313 - Connection - INFO - Get summary from 2000-08-01 to 2000-09-01
+2025-07-30 18:00:16,391 - Connection - INFO - Get data analytics by month
